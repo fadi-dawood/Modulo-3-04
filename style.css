@@ -1,0 +1,47 @@
+.world-img {
+    height: 200px;
+    object-fit: cover;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+.sezione {
+    margin: 50px 0;
+}
+
+div.sezione>.row>.card {
+    border: none;
+}
+
+.offerta-del-giorno-fo {
+    object-fit: fill;
+}
+
+footer {
+    height: 125px;
+    background-color: gray;
+    padding: 15px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sezione-title {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 15px;
+}
+
+.collassare {
+    border: none;
+    border-radius: 15px;
+    height: 35px;
+}
+
+.nascondi {
+    display: none;
+}
